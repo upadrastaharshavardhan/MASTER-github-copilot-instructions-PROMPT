@@ -1,5 +1,9 @@
 # Copilot Instructions — README
 
+![Uploading ChatGPT Image Aug 15, 2026, 10_35_19 AM.png…]()
+
+
+
 **File:** `copilot-instructions.md`
 **Maintained by:** Upadrasta Harsha Vardhan
 
