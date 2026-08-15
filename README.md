@@ -1,8 +1,9 @@
 # Copilot Instructions — README
 
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3b0c1176-77b5-4f75-9024-8429891bec26" />
 
+
+<img width="1983" height="793" alt="ChatGPT Image Aug 15, 2026, 10_35_19 AM" src="https://github.com/user-attachments/assets/36e75ff7-bbe9-45a9-b10f-56684210307e" />
 
 
 **File:** `copilot-instructions.md`
@@ -118,4 +119,4 @@ conventions).
 ---
 
 
-<img width="1983" height="793" alt="ChatGPT Image Aug 15, 2026, 10_35_19 AM" src="https://github.com/user-attachments/assets/36e75ff7-bbe9-45a9-b10f-56684210307e" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3b0c1176-77b5-4f75-9024-8429891bec26" />
