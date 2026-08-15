@@ -1,6 +1,7 @@
 # Copilot Instructions — README
 
-![Uploading ChatGPT Image Aug 15, 2026, 10_35_19 AM.png…]()
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3b0c1176-77b5-4f75-9024-8429891bec26" />
 
 
 
@@ -113,3 +114,8 @@ not about any specific tech stack.
 Optional: edit any section to match your team's specific standards
 (e.g. stricter security rules, a preferred testing framework, naming
 conventions).
+
+---
+
+
+<img width="1983" height="793" alt="ChatGPT Image Aug 15, 2026, 10_35_19 AM" src="https://github.com/user-attachments/assets/36e75ff7-bbe9-45a9-b10f-56684210307e" />
